@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on so_long 42 project, which is 2D game
+- 🔭 I’m currently working on push_swap 42 project
 - 🌱 I’m currently learning C
 
 <!---
