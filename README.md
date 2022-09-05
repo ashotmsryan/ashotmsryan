@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on pipex 42 project
+- 🔭 I’m currently working on Philosophers 42 project
 - 🌱 I’m currently learning C
 
 <!---
