@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Minishell 42 project
+- 🔭 I’m currently working on Cub3D 42 project
 - 🌱 I’m currently learning C
 
 <!---
