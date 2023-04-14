@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on CPP Module project
+- 🔭 I’m currently working on Webserv project
 - 🌱 I’m currently learning C++
 
 <!---
