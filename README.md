@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://profile.intra.42.fr/amsryan">
+  <a href="https://profile.intra.42.fr/">
     <img src="https://badge42.vercel.app/api/v2/cl3pwq0z7003009l5qonmkw7d/stats?cursusId=21&coalitionId=undefined">
   </a> 
 </p>
