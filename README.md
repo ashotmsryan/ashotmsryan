@@ -16,7 +16,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on transcendence 42 project
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Python, AI, Computer Science
 
 <!---
 - 👯 I’m looking to collaborate on ...
