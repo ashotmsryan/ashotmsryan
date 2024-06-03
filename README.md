@@ -15,8 +15,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on transcendence 42 project
-- 🌱 I’m currently learning C++, Python, AI, Computer Science
+- 🔭 I’m currently working on AudioPlayer by Java (project)
+- 🌱 I’m currently learning C++, Python, AI, Java, Computer Science
+- ⚡  I’m currently doing bachelors at THI in Computer Science and AI realm
 
 <!---
 - 👯 I’m looking to collaborate on ...
@@ -24,5 +25,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 --->
