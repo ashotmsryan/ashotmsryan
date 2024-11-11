@@ -15,11 +15,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AudioPlayer by Java (project)
-- 🌱 I’m currently learning C++, Python, AI, Java, Computer Science
+- 🌱 I’m learning C++, Python, AI, Java, Computer Science
 - ⚡  I’m currently doing bachelors at THI in Computer Science and AI realm
-
+- 🖥️ Student of 42 Yerevan International Programming School
 <!---
+- 🔭 I’m currently working on AudioPlayer by Java (project)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
