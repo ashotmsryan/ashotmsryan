@@ -26,13 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ashotmsryan/42-Yerevan-Armenia">
-    <img src="https://badge.mediaplus.ma/greenbinary/amsryan?1337Badge=off&UM6P=off">
-  </a> 
-</p>
-
-
 Here are some ideas to get you started:
 
 - 🌱 I’m learning C++, Python, AI, Java, Computer Science
