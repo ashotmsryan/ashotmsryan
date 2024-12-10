@@ -1,17 +1,37 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashotmsryan&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashotmsryan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=ocean_dark" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashotmsryan&theme=ocean_dark&hide_border=false" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=ashotmsryan&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 42 Cursus Stats
+
 <p align="center">
-  <a href="https://profile.intra.42.fr/">
-    <img src="https://badge42.vercel.app/api/v2/cl3pwq0z7003009l5qonmkw7d/stats?cursusId=21&coalitionId=undefined">
-  </a> 
+  <a href="https://profile.intra.42.fr/users/amsryan">
+    <img src="https://komarev.com/ghpvc/?username=ashotmsryan&style=plastic">
+    <img src="https://badgen.net/badge/Born2Code/amsryan/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashotmsryan">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashotmsryan&count_private=true&show_icons=true&theme=chartreuse-dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashotmsryan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
-  </a>
+  <a href="https://github.com/ashotmsryan/42-Yerevan-Armenia">
+    <img src="https://badge.mediaplus.ma/greenbinary/amsryan?1337Badge=off&UM6P=off">
+  </a> 
 </p>
+
 
 Here are some ideas to get you started:
 
