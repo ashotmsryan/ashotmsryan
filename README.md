@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashotmsryan&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashotmsryan&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashotmsryan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=ocean_dark" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashotmsryan&theme=ocean_dark&hide_border=false" alt="Streak Stats" />
